@@ -11,3 +11,5 @@ date: 2025-10-07
 Hello world! This is my first post on my new Quarto blog.  
 
 You can edit this file or add new `.qmd` files under `posts/` to create more blog posts.
+
+There is a way life appears, it poses to fool.
