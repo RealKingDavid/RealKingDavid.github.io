@@ -1,0 +1,15 @@
+---
+title: "Home"
+---
+
+# Welcome to My Blog
+
+Hello! My name is **David K. Amakye**, and this is my Quarto blog.  
+
+This site is powered by **Quarto** and hosted via **GitHub Pages**.
+
+Below are my latest posts:
+
+::: {.blog-list}
+```{r}
+# automatically list posts (Quarto default)
