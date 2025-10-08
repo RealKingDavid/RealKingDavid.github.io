@@ -1,0 +1,32 @@
+name: Quarto Render and Publish
+
+on:
+  push:
+    branches:
+      - main   # or your default branch
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Quarto
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # Step 3: Render Quarto site
+      - name: Render Quarto Site
+        run: quarto render
+
+      # Step 4: Commit generated docs/ folder
+      - name: Commit rendered site
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -m "Update rendered site" || echo "No changes to commit"
+          git push origin main
