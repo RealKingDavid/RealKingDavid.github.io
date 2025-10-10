@@ -1,7 +1,7 @@
 
 ---
 
-# 4️⃣ Sample blog post `posts/2025-10-07-first-post.qmd`
+# Sample blog post `posts/2025-10-07-first-post.qmd`
 ```markdown
 ---
 title: "My First Post"
@@ -9,7 +9,5 @@ date: 2025-10-07
 ---
 
 Hello world! This is my first post on my new Quarto blog.  
-
-You can edit this file or add new `.qmd` files under `posts/` to create more blog posts.
 
 There is a way life appears, it poses to fool.
