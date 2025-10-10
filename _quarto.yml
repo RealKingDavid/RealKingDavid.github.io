@@ -19,6 +19,11 @@ website:
         href: "https://github.com/RealKingDavid"
       - icon: envelope
         href: "amakyekojodavid@gmail.com"
+      - text: "{{< fa brands orcid >}}"
+      href: https://orcid.org/0009-0002-9061-901X
+      - icon: linkedin
+        aria-label: "LinkedIn"
+        href: https://linkedin.com/in/david-amakye
 
 format:
   html:
