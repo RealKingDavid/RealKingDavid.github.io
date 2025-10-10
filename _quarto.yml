@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "David K. Amakye"
+  description: "Personal website and blog"
+  site-url: "https://realkingdavid.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Posts
+        href: posts/
+    right:
+      - icon: github
+        href: "https://github.com/RealKingDavid"
+      - icon: envelope
+        href: "mailto:youremail@example.com"
+
+format:
+  html:
+    theme: cosmo
+    css: resources/styles.css
+    toc: true
