@@ -18,11 +18,13 @@ website:
       - icon: github
         href: "https://github.com/RealKingDavid"
       - icon: envelope
-        href: amakyekojodavid@gmail.com
+        href: mailto:amakyekojodavid@gmail.com
       - icon: linkedin
         aria-label: "LinkedIn"
         href: https://linkedin.com/in/david-amakye
-
+      - icon: wordpress
+        aria-label: "WordPress Blog"
+        href: https://amakye.wordpress.com
 format:
   html:
     theme: cosmo
