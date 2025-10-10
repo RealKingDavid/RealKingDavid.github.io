@@ -6,7 +6,7 @@ format: html
 <div class="hero" style="text-align:center; padding:50px;">
   <img src="assets/profile.jpeg" alt="David Amakye" style="border-radius:50%; width:150px;">
   <h1>David K. Amakye</h1>
-  <p>Data Scientist | Storyteller | Statistician</p>
+  <p>Data Scientist | Data Storyteller | "In God I trust, everyone else bring data"</p>
   <a href="#portfolio" class="btn" style="margin:10px;">View Portfolio</a>
   <a href="#blog" class="btn" style="margin:10px;">Read Blog</a>
 </div>
