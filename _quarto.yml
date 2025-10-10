@@ -12,6 +12,8 @@ website:
         text: Home
       - text: Posts
         href: posts/
+      - text: Portfolio
+        href: portfolio/
     right:
       - icon: github
         href: "https://github.com/RealKingDavid"
