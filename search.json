@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "posts/2025-10-07-first-post.html#markdown",
+    "href": "posts/2025-10-07-first-post.html#markdown",
+    "title": "4️⃣ Sample blog post posts/2025-10-07-first-post.qmd",
+    "section": "```markdown",
+    "text": "```markdown\ntitle: “My First Post” date: 2025-10-07 —\nHello world! This is my first post on my new Quarto blog.\nYou can edit this file or add new .qmd files under posts/ to create more blog posts.\nThere is a way life appears, it poses to fool."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to My Blog\nHello! My name is David K. Amakye, and this is my Quarto blog.\nThis site is powered by Quarto and hosted via GitHub Pages.\nBelow are my latest posts:\n\n\nautomatically list posts (Quarto default)"
+  }
+]
