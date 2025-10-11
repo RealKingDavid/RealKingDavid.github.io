@@ -14,6 +14,7 @@ format:
     preserve-html: true
 ---
 
+```{=html}
 <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1.5rem; margin-bottom: 2rem;">
   <img src="assets/profile.jpeg" alt="David K. Amakye" style="width: 180px; border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   <div>
@@ -21,7 +22,7 @@ format:
     <p style="font-size: 1.1rem;">I’m a statistician, data storyteller, and curious mind exploring the intersection between data, creativity, and meaning.</p>
   </div>
 </div>
-
+```
 I believe that numbers tell stories — sometimes quietly, sometimes in ways that surprise us.  
 I’m fascinated by how data can reveal patterns that help us understand people, systems, and possibilities.  
 Most days, I’m working on problems that live at the edge of statistics, machine learning, and communication — figuring out how to make insights *feel human* again.
