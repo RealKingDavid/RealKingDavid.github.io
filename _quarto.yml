@@ -12,7 +12,7 @@ website:
       - text: "Projects"
         href: projects.qmd
       - text: "Blog"
-        href: blog.qmd
+        href: blog/blog.qmd
       - text: "Contact"
         href: contact.qmd
     right:
