@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>David K. Amakye</title>
-<link>https://RealKingDavid.github.io/blog/blog.html</link>
-<atom:link href="https://RealKingDavid.github.io/blog/blog.xml" rel="self" type="application/rss+xml"/>
-<description></description>
+<link>https://RealKingDavid.github.io/blog/</link>
+<atom:link href="https://RealKingDavid.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>A data science blog</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sat, 11 Oct 2025 21:25:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Oct 2025 21:25:28 GMT</lastBuildDate>
 </channel>
 </rss>
