@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "portfolio/weibull.html",
-    "href": "portfolio/weibull.html",
-    "title": "Optimal Experimental Design",
+    "objectID": "portfolio/chat-analyzer.html",
+    "href": "portfolio/chat-analyzer.html",
+    "title": "WhatsApp Chat Analyzer",
     "section": "",
-    "text": "This project demonstrates optimal experimental design for the Weibull Extreme-Value Distribution using R and Quarto.\n\n\n\nGoal: Find optimal sample allocation and design parameters.\nMethods: R scripts using advanced statistical models.\nOutcome: Improved efficiency in experiment planning."
+    "text": "This project analyzes chat data to extract insights from WhatsApp conversations using Python/NLP techniques.\n\n\n\nGoal: Learn trends and sentiment in chat messages.\nMethods: Python, Pandas, NLP, and Visualization.\nOutcome: Interactive visualizations and metrics for communication patterns."
   },
   {
-    "objectID": "portfolio/weibull.html#overview",
-    "href": "portfolio/weibull.html#overview",
-    "title": "Optimal Experimental Design",
+    "objectID": "portfolio/chat-analyzer.html#overview",
+    "href": "portfolio/chat-analyzer.html#overview",
+    "title": "WhatsApp Chat Analyzer",
     "section": "",
-    "text": "Goal: Find optimal sample allocation and design parameters.\nMethods: R scripts using advanced statistical models.\nOutcome: Improved efficiency in experiment planning."
+    "text": "Goal: Learn trends and sentiment in chat messages.\nMethods: Python, Pandas, NLP, and Visualization.\nOutcome: Interactive visualizations and metrics for communication patterns."
+  },
+  {
+    "objectID": "posts/2025-10-07-first-post.html#markdown",
+    "href": "posts/2025-10-07-first-post.html#markdown",
+    "title": "Sample blog post posts/2025-10-07-first-post.qmd",
+    "section": "```markdown",
+    "text": "```markdown\ntitle: “My First Post” date: 2025-10-07 —\nHello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
   },
   {
     "objectID": "index.html",
@@ -49,10 +56,17 @@
     "text": "Contact\nEmail: david@example.com\nLinkedIn: linkedin.com/in/yourprofile\nGitHub: github.com/RealKingDavid"
   },
   {
-    "objectID": "posts/2025-10-07-first-post.html#markdown",
-    "href": "posts/2025-10-07-first-post.html#markdown",
-    "title": "Sample blog post posts/2025-10-07-first-post.qmd",
-    "section": "```markdown",
-    "text": "```markdown\ntitle: “My First Post” date: 2025-10-07 —\nHello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
+    "objectID": "portfolio/weibull.html",
+    "href": "portfolio/weibull.html",
+    "title": "Optimal Experimental Design",
+    "section": "",
+    "text": "This project demonstrates optimal experimental design for the Weibull Extreme-Value Distribution using R and Quarto.\n\n\n\nGoal: Find optimal sample allocation and design parameters.\nMethods: R scripts using advanced statistical models.\nOutcome: Improved efficiency in experiment planning."
+  },
+  {
+    "objectID": "portfolio/weibull.html#overview",
+    "href": "portfolio/weibull.html#overview",
+    "title": "Optimal Experimental Design",
+    "section": "",
+    "text": "Goal: Find optimal sample allocation and design parameters.\nMethods: R scripts using advanced statistical models.\nOutcome: Improved efficiency in experiment planning."
   }
 ]
