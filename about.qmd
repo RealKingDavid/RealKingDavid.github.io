@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpeg
+image: assets/profile.jpeg
 format:
   html:
     toc: false
