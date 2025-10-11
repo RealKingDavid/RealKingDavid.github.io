@@ -1,8 +1,43 @@
 ---
 title: "About"
+image: profile.jpeg
+format:
+  html:
+    toc: false
+    page-layout: full
 ---
 
-Hello, I am David Kojo Amakye, a PhD student in Statistics, passionate about turning data into meaningful stories.  
-I specialize in **data visualization**, **experimental design**, and **statistical modeling**.
+<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1.5rem; margin-bottom: 2rem;">
+  <img src="profile.jpeg" alt="David K. Amakye" style="width: 180px; border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+  <div>
+    <h1 style="margin-bottom: 0.3rem;">Hi, I’m David.</h1>
+    <p style="font-size: 1.1rem;">I’m a statistician, data storyteller, and curious mind exploring the intersection between data, creativity, and meaning.</p>
+  </div>
+</div>
+
+I believe that numbers tell stories — sometimes quietly, sometimes in ways that surprise us.  
+I’m fascinated by how data can reveal patterns that help us understand people, systems, and possibilities.  
+Most days, I’m working on problems that live at the edge of statistics, machine learning, and communication — figuring out how to make insights *feel human* again.
+
+### Now
+
+I’m currently a PhD student in Statistics, exploring how modern methods in optimization and experimental design can make real-world decisions smarter and more efficient.  
+Along the way, I’m learning to translate complex statistical ideas into stories that inspire — whether that’s through writing, teaching, or building tools that help others see data differently.
+
+### Previously
+
+Before diving deep into research, I spent time studying the foundations of data science, learning how numbers shape narratives, and building small projects that blend analytics with creativity.  
+That mix of art and analysis is something I still carry into everything I do.
+
+### Elsewhere
+
+You can find me online here:
+
+- 🧠 [GitHub](https://github.com/realkingdavid)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-amakye/)
+- ✍️ [WordPress](https://amakye.wordpress.com)
+- 📧 [Email](mailto:amakyekojodavid@gmail.com)
 
 ---
+
+<small style="color: #666;">Built with ❤️ and Quarto. Updated {{< today >}}.</small>
