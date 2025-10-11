@@ -14,25 +14,11 @@
     "text": "Goal: Find optimal sample allocation and design parameters.\nMethods: R scripts using advanced statistical models.\nOutcome: Improved efficiency in experiment planning."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "The Blog Thing! We’re Doing It!",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Hi yall!\nFor a while now, I’ve wished I had a place to share some short posts on what I’m up to related to R, data science, and statistics. I decided I’d take a Sunday to get this subdomain up and running! This setup uses blogdown and is based on a fork of Julia Silge’s website!\nThere’s more information about myself and what I work on on my main website."
-  },
-  {
-    "objectID": "posts/2025-10-07-first-post.html",
-    "href": "posts/2025-10-07-first-post.html",
-    "title": "My First Post",
-    "section": "",
-    "text": "Hello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David K. Amakye",
-    "section": "",
-    "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\nExplore: - About Me - My Projects - Blog Posts - Contact"
+    "text": "Hello, I am David Kojo Amakye, a PhD student in Statistics, passionate about turning data into meaningful stories.\nI specialize in data visualization, experimental design, and statistical modeling."
   },
   {
     "objectID": "contact.html",
@@ -42,11 +28,18 @@
     "text": "Let’s connect! Email: amakyekojodavid@gmail.com\nLinkedIn: linkedin.com/in/david-amakye\nGitHub: github.com/RealKingDavid"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David K. Amakye",
     "section": "",
-    "text": "Hello, I am David Kojo Amakye, a PhD student in Statistics, passionate about turning data into meaningful stories.\nI specialize in data visualization, experimental design, and statistical modeling."
+    "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\nExplore: - About Me - My Projects - Blog Posts - Contact"
+  },
+  {
+    "objectID": "posts/2025-10-07-first-post.html",
+    "href": "posts/2025-10-07-first-post.html",
+    "title": "My First Post",
+    "section": "",
+    "text": "Hello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
   },
   {
     "objectID": "blog/blog.html",
