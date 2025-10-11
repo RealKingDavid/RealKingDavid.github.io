@@ -71,7 +71,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="resources/styles.css">
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -135,12 +134,14 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -150,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -162,32 +163,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<!-- Hero Section -->
+<!-- Home / Hero Section -->
 <div id="home" class="hero">
-<div class="overlay">
-
+<img src="assets/profile.jpeg" alt="David Amakye">
+<h1>
+David K. Amakye
+</h1>
+<p>
+Data Scientist | Data Storyteller | Statistician
+</p>
+<p><a href="portfolio" class="btn">View Portfolio</a> <a href="blog" class="btn">Read Blog</a></p>
 </div>
-<div class="hero-content">
-<pre><code>&lt;img src="assets/profile.jpeg" alt="David Amakye" class="profile-img"&gt;
-&lt;h1&gt;David K. Amakye&lt;/h1&gt;
-&lt;p class="tagline"&gt;Data Scientist · Data Storyteller · Statistician&lt;/p&gt;
-&lt;div class="buttons"&gt;
-  &lt;a href="portfolio.qmd" class="btn"&gt;View Portfolio&lt;/a&gt;
-  &lt;a href="blog/blog.qmd" class="btn"&gt;Read Blog&lt;/a&gt;
-&lt;/div&gt;</code></pre>
-</div>
-</div>
-<hr>
-<section id="explore" class="level3">
-<h3 class="anchored" data-anchor-id="explore">Explore</h3>
-<ul>
-<li><a href="./about.html">About Me</a></li>
-<li><a href="./blog/blog.html">Blog Posts</a></li>
-<li><a href="./contact.html">Contact</a></li>
-</ul>
+<!-- Explore Section -->
+<p>Explore:<br>
+- <a href="./about.html">About Me</a><br>
+- <a href="./blog/blog.html">Blog Posts</a><br>
+- <a href="./contact.html">Contact</a></p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
