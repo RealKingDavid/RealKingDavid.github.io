@@ -40,4 +40,4 @@ You can find me online here:
 
 ---
 
-<small style="color: #666;">Built with ❤️ and Quarto. Updated {{< today >}}.</small>
+<small style="color: #666;">Built with love and Quarto. Updated {{< today >}}.</small>
