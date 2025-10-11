@@ -13,36 +13,9 @@ format: html
   <a href="#blog" class="btn">Read Blog</a>
 </div>
 
-<!-- Portfolio Section -->
-## Portfolio {#portfolio}
-<div class="portfolio-grid">
-  <div class="project-card">
-    <h3>Optimal Experimental Design</h3>
-    <p>R + Quarto project on Weibull models</p>
-    <a href="portfolio/weibull.qmd">View Project</a>
-  </div>
-  <div class="project-card">
-    <h3>WhatsApp Chat Analyzer</h3>
-    <p>Python/NLP project</p>
-    <a href="portfolio/chat-analyzer.qmd">View Project</a>
-  </div>
-</div>
 
-<!-- Blog Section -->
-## Blog {#blog}
-<ul class="blog-list">
-`r quarto::list_files("posts", pattern = "*.qmd") %>% 
-    map_chr(~paste0("<li><a href='posts/", ., "'>", ., "</a></li>"))`
-</ul>
-
-<!-- About Section -->
-## About {#about}
-I am a PhD student in Statistics, passionate about turning data into meaningful stories.  
-I specialize in **data visualization**, **experimental design**, and **statistical modeling**.
-
----
-
-## Contact {#contact}
-Email: [david@example.com](mailto:david@example.com)  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-GitHub: [github.com/RealKingDavid](https://github.com/RealKingDavid)
+Explore:
+- [About Me](about.qmd)
+- [My Projects](projects.qmd)
+- [Blog Posts](blog.qmd)
+- [Contact](contact.qmd)
