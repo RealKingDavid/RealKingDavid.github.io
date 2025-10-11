@@ -16,16 +16,16 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Modern Solutions",
+    "title": "The Blog Thing! We’re Doing It!",
     "section": "",
-    "text": "No matching items"
+    "text": "Hi yall!\nFor a while now, I’ve wished I had a place to share some short posts on what I’m up to related to R, data science, and statistics. I decided I’d take a Sunday to get this subdomain up and running! This setup uses blogdown and is based on a fork of Julia Silge’s website!\nThere’s more information about myself and what I work on on my main website."
   },
   {
-    "objectID": "posts/2025-10-07-first-post.html#markdown",
-    "href": "posts/2025-10-07-first-post.html#markdown",
-    "title": "Sample blog post posts/2025-10-07-first-post.qmd",
-    "section": "```markdown",
-    "text": "```markdown\ntitle: “My First Post” date: 2025-10-07 —\nHello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
+    "objectID": "posts/2025-10-07-first-post.html",
+    "href": "posts/2025-10-07-first-post.html",
+    "title": "My First Post",
+    "section": "",
+    "text": "Hello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
   },
   {
     "objectID": "index.html",
