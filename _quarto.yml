@@ -1,19 +1,20 @@
 project:
   type: website
-  output-dir: _site
 
 website:
   title: "David K. Amakye"
-  description: "Personal website and blog"
-  site-url: "https://realkingdavid.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - text: Posts
-        href: posts/
+      - text: Home
+        href: index.qmd#home
       - text: Portfolio
-        href: portfolio/
+        href: index.qmd#portfolio
+      - text: Blog
+        href: index.qmd#blog
+      - text: About
+        href: index.qmd#about
+      - text: Contact
+        href: index.qmd#contact
     right:
       - icon: github
         href: "https://github.com/RealKingDavid"
