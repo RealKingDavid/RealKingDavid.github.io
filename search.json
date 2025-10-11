@@ -14,25 +14,11 @@
     "text": "Goal: Find optimal sample allocation and design parameters.\nMethods: R scripts using advanced statistical models.\nOutcome: Improved efficiency in experiment planning."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Hello, I am David Kojo Amakye, a PhD student in Statistics, passionate about turning data into meaningful stories.\nI specialize in data visualization, experimental design, and statistical modeling."
-  },
-  {
-    "objectID": "posts/2025-10-07-first-post.html#markdown",
-    "href": "posts/2025-10-07-first-post.html#markdown",
-    "title": "Sample blog post posts/2025-10-07-first-post.qmd",
-    "section": "```markdown",
-    "text": "```markdown\ntitle: “My First Post” date: 2025-10-07 —\nHello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David K. Amakye",
-    "section": "",
-    "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\nExplore: - About Me - My Projects - Blog Posts - Contact"
+    "text": "Sample blog post posts/2025-10-07-first-post.qmd\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -42,11 +28,32 @@
     "text": "Let’s connect! Email: amakyekojodavid@gmail.com\nLinkedIn: linkedin.com/in/david-amakye\nGitHub: github.com/RealKingDavid"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David K. Amakye",
+    "section": "",
+    "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\nExplore: - About Me - My Projects - Blog Posts - Contact"
+  },
+  {
+    "objectID": "posts/2025-10-07-first-post.html#markdown",
+    "href": "posts/2025-10-07-first-post.html#markdown",
+    "title": "Sample blog post posts/2025-10-07-first-post.qmd",
+    "section": "```markdown",
+    "text": "```markdown\ntitle: “My First Post” date: 2025-10-07 —\nHello world! This is my first post on my new Quarto blog.\nThere is a way life appears, it poses to fool."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I am David Kojo Amakye, a PhD student in Statistics, passionate about turning data into meaningful stories.\nI specialize in data visualization, experimental design, and statistical modeling."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Sample blog post posts/2025-10-07-first-post.qmd\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "portfolio/chat-analyzer.html",
