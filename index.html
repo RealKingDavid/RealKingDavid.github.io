@@ -137,8 +137,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#portfolio" id="toc-portfolio" class="nav-link active" data-scroll-target="#portfolio">Portfolio</a></li>
+  <li><a href="#blog" id="toc-blog" class="nav-link" data-scroll-target="#blog">Blog</a></li>
+  <li><a href="#about" id="toc-about" class="nav-link" data-scroll-target="#about">About</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -162,18 +171,55 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="hero" style="text-align:center; padding:50px;">
-<img src="assets/profile.jpeg" alt="David Amakye" style="border-radius:50%; width:150px;">
+<!-- Home / Hero Section -->
+<div id="home" class="hero">
+<img src="assets/profile.jpg" alt="David Amakye">
 <h1>
 David K. Amakye
 </h1>
 <p>
-Data Scientist | Data Storyteller | “In God I trust, everyone else bring data”
+Data Scientist | Storyteller | Statistician
 </p>
-<p><a href="#portfolio" class="btn" style="margin:10px;">View Portfolio</a> <a href="#blog" class="btn" style="margin:10px;">Read Blog</a></p>
+<p><a href="#portfolio" class="btn">View Portfolio</a> <a href="#blog" class="btn">Read Blog</a></p>
 </div>
+<!-- Portfolio Section -->
+<section id="portfolio" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio">Portfolio</h2>
+<div class="portfolio-grid">
+<div class="project-card">
+<pre><code>&lt;h3&gt;Optimal Experimental Design&lt;/h3&gt;
+&lt;p&gt;R + Quarto project on Weibull models&lt;/p&gt;
+&lt;a href="portfolio/weibull.qmd"&gt;View Project&lt;/a&gt;</code></pre>
+</div>
+<div class="project-card">
+<pre><code>&lt;h3&gt;WhatsApp Chat Analyzer&lt;/h3&gt;
+&lt;p&gt;Python/NLP project&lt;/p&gt;
+&lt;a href="portfolio/chat-analyzer.qmd"&gt;View Project&lt;/a&gt;</code></pre>
+</div>
+</div>
+<!-- Blog Section -->
+</section>
+<section id="blog" class="level2">
+<h2 class="anchored" data-anchor-id="blog">Blog</h2>
+<ul class="blog-list">
+<code>r quarto::list_files("posts", pattern = "*.qmd") %&gt;%      map_chr(~paste0("&lt;li&gt;&lt;a href='posts/", ., "'&gt;", ., "&lt;/a&gt;&lt;/li&gt;"))</code>
+</ul>
+<!-- About Section -->
+</section>
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>I am a PhD student in Statistics, passionate about turning data into meaningful stories.<br>
+I specialize in <strong>data visualization</strong>, <strong>experimental design</strong>, and <strong>statistical modeling</strong>.</p>
+<hr>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>Email: <a href="mailto:david@example.com">david@example.com</a><br>
+LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a><br>
+GitHub: <a href="https://github.com/RealKingDavid">github.com/RealKingDavid</a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
