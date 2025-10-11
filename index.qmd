@@ -16,6 +16,5 @@ format: html
 
 Explore:
 - [About Me](about.qmd)
-- [My Projects](projects.qmd)
 - [Blog Posts](blog/blog.qmd)
 - [Contact](contact.qmd)
