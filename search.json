@@ -32,35 +32,7 @@
     "href": "index.html",
     "title": "David K. Amakye",
     "section": "",
-    "text": "Data Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog"
-  },
-  {
-    "objectID": "index.html#portfolio",
-    "href": "index.html#portfolio",
-    "title": "David K. Amakye",
-    "section": "Portfolio",
-    "text": "Portfolio\n\n\n&lt;h3&gt;Optimal Experimental Design&lt;/h3&gt;\n&lt;p&gt;R + Quarto project on Weibull models&lt;/p&gt;\n&lt;a href=\"portfolio/weibull.qmd\"&gt;View Project&lt;/a&gt;\n\n\n&lt;h3&gt;WhatsApp Chat Analyzer&lt;/h3&gt;\n&lt;p&gt;Python/NLP project&lt;/p&gt;\n&lt;a href=\"portfolio/chat-analyzer.qmd\"&gt;View Project&lt;/a&gt;"
-  },
-  {
-    "objectID": "index.html#blog",
-    "href": "index.html#blog",
-    "title": "David K. Amakye",
-    "section": "Blog",
-    "text": "Blog\n\nr quarto::list_files(\"posts\", pattern = \"*.qmd\") %&gt;%      map_chr(~paste0(\"&lt;li&gt;&lt;a href='posts/\", ., \"'&gt;\", ., \"&lt;/a&gt;&lt;/li&gt;\"))"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "David K. Amakye",
-    "section": "About",
-    "text": "About\nI am a PhD student in Statistics, passionate about turning data into meaningful stories.\nI specialize in data visualization, experimental design, and statistical modeling."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "David K. Amakye",
-    "section": "Contact",
-    "text": "Contact\nEmail: david@example.com\nLinkedIn: linkedin.com/in/yourprofile\nGitHub: github.com/RealKingDavid"
+    "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\nExplore: - About Me - My Projects - Blog Posts - Contact"
   },
   {
     "objectID": "posts/2025-10-07-first-post.html#markdown",
