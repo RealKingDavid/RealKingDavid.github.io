@@ -1,0 +1,13 @@
+---
+title: "WhatsApp Chat Analyzer"
+format: html
+---
+
+# WhatsApp Chat Analyzer
+
+This project analyzes chat data to extract insights from WhatsApp conversations using Python/NLP techniques.
+
+## Overview
+- Goal: Learn trends and sentiment in chat messages.
+- Methods: Python, Pandas, NLP, and Visualization.
+- Outcome: Interactive visualizations and metrics for communication patterns.
