@@ -1,5 +1,6 @@
 ---
 title: "David K. Amakye"
+subtitle: "In God I trust, everyone else bring data."
 format: html
 ---
 
@@ -7,7 +8,7 @@ format: html
 <div class="hero" id="home">
   <img src="assets/profile.jpeg" alt="David Amakye">
   <h1>David K. Amakye</h1>
-  <p>Data Scientist | Storyteller | Statistician</p>
+  <p>Data Scientist | Data Storyteller | Statistician</p>
   <a href="#portfolio" class="btn">View Portfolio</a>
   <a href="#blog" class="btn">Read Blog</a>
 </div>
