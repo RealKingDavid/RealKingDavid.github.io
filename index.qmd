@@ -5,7 +5,7 @@ format: html
 
 <!-- Home / Hero Section -->
 <div class="hero" id="home">
-  <img src="assets/profile.jpg" alt="David Amakye">
+  <img src="assets/profile.jpeg" alt="David Amakye">
   <h1>David K. Amakye</h1>
   <p>Data Scientist | Storyteller | Statistician</p>
   <a href="#portfolio" class="btn">View Portfolio</a>
