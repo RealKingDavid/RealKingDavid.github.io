@@ -1,7 +1,7 @@
 ---
 title: "Contact"
----
-Let’s connect! 
+subtitle: "Let’s connect!"
+--- 
 Email: [amakyekojodavid@gmail.com](mailto:amakyekojodavid@gmail.com)  
 LinkedIn: [linkedin.com/in/david-amakye](https://linkedin.com/in/david-amakye)  
 GitHub: [github.com/RealKingDavid](https://github.com/RealKingDavid)
