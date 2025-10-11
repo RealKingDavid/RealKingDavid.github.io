@@ -1,6 +1,6 @@
 # David K. Amakye — Quarto Blog Starter
 
-This is a minimal Quarto website setup, ready to deploy to GitHub Pages.
+This is a minimal Quarto website setup, ready to deploy to GitHub Pages. This website is a work-in-progress. You will see changes from time to time till I take this comment away.
 
 ## How to publish
 
