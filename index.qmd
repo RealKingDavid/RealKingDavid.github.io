@@ -9,13 +9,13 @@ format: html
   <img src="assets/profile.jpeg" alt="David Amakye">
   <h1>David K. Amakye</h1>
   <p>Data Scientist | Data Storyteller | Statistician</p>
-  <a href="#portfolio" class="btn">View Portfolio</a>
-  <a href="#blog" class="btn">Read Blog</a>
+  <a href="portfolio" class="btn">View Portfolio</a>
+  <a href="blog" class="btn">Read Blog</a>
 </div>
 
 
 Explore:
 - [About Me](about.qmd)
 - [My Projects](projects.qmd)
-- [Blog Posts](blog.qmd)
+- [Blog Posts](blog/blog.qmd)
 - [Contact](contact.qmd)
