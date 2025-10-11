@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "David K. Amakye",
     "section": "",
-    "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\nExplore: - About Me - Blog Posts - Contact"
+    "text": "&lt;img src=\"assets/profile.jpeg\" alt=\"David Amakye\" class=\"profile-img\"&gt;\n&lt;h1&gt;David K. Amakye&lt;/h1&gt;\n&lt;p class=\"tagline\"&gt;Data Scientist · Data Storyteller · Statistician&lt;/p&gt;\n&lt;div class=\"buttons\"&gt;\n  &lt;a href=\"portfolio.qmd\" class=\"btn\"&gt;View Portfolio&lt;/a&gt;\n  &lt;a href=\"blog/blog.qmd\" class=\"btn\"&gt;Read Blog&lt;/a&gt;\n&lt;/div&gt;\n\n\n\n\nExplore\n\nAbout Me\nBlog Posts\nContact"
   },
   {
     "objectID": "contact.html",
