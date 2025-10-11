@@ -1,20 +1,33 @@
 ---
 title: "David K. Amakye"
 subtitle: "In God I trust, everyone else bring data."
-format: html
+format:
+  html:
+    toc: false
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    preserve-html: true
 ---
 
-<!-- Home / Hero Section -->
+<!-- Hero Section -->
 <div class="hero" id="home">
-  <img src="assets/profile.jpeg" alt="David Amakye">
-  <h1>David K. Amakye</h1>
-  <p>Data Scientist | Data Storyteller | Statistician</p>
-  <a href="portfolio" class="btn">View Portfolio</a>
-  <a href="blog" class="btn">Read Blog</a>
+  <div class="overlay"></div>
+  <div class="hero-content">
+    <img src="assets/profile.jpeg" alt="David Amakye" class="profile-img">
+    <h1>David K. Amakye</h1>
+    <p class="tagline">Data Scientist · Data Storyteller · Statistician</p>
+    <div class="buttons">
+      <a href="portfolio.qmd" class="btn">View Portfolio</a>
+      <a href="blog/blog.qmd" class="btn">Read Blog</a>
+    </div>
+  </div>
 </div>
 
+---
 
-Explore:
+### Explore
+
 - [About Me](about.qmd)
 - [Blog Posts](blog/blog.qmd)
 - [Contact](contact.qmd)
