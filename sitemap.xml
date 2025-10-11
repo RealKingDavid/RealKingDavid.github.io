@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://RealKingDavid.github.io/portfolio/chat-analyzer.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RealKingDavid.github.io/about.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RealKingDavid.github.io/posts/2025-10-07-first-post.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RealKingDavid.github.io/index.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RealKingDavid.github.io/contact.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RealKingDavid.github.io/blog.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
+    <loc>https://RealKingDavid.github.io/projects.html</loc>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
   </url>
   <url>
     <loc>https://RealKingDavid.github.io/portfolio/weibull.html</loc>
-    <lastmod>2025-10-11T20:51:50.754Z</lastmod>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RealKingDavid.github.io/blog.html</loc>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RealKingDavid.github.io/contact.html</loc>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RealKingDavid.github.io/index.html</loc>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RealKingDavid.github.io/posts/2025-10-07-first-post.html</loc>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RealKingDavid.github.io/about.html</loc>
+    <lastmod>2025-10-11T20:55:21.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RealKingDavid.github.io/portfolio/chat-analyzer.html</loc>
+    <lastmod>2025-10-11T20:55:21.452Z</lastmod>
   </url>
 </urlset>
