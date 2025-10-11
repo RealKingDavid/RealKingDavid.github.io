@@ -5,16 +5,16 @@ website:
   title: "David K. Amakye"
   navbar:
     left:
-      - text: Home
-        href: index.qmd#home
-      - text: Portfolio
-        href: index.qmd#portfolio
-      - text: Blog
-        href: index.qmd#blog
-      - text: About
-        href: index.qmd#about
-      - text: Contact
-        href: index.qmd#contact
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Contact"
+        href: contact.qmd
     right:
       - icon: github
         href: "https://github.com/RealKingDavid"
