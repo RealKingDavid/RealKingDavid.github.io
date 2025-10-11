@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+Hello, I am David Kojo Amakye, a PhD student in Statistics, passionate about turning data into meaningful stories.  
+I specialize in **data visualization**, **experimental design**, and **statistical modeling**.
+
+---
