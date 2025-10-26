@@ -3,7 +3,7 @@ title: "Blog"
 listing:
   contents: .
   type: default
-  image: true
+  image-align: left
   sort: "date desc"
   categories: true
   date-format: "long"
