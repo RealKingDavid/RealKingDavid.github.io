@@ -16,9 +16,9 @@
   {
     "objectID": "blog/blog.html",
     "href": "blog/blog.html",
-    "title": "Blog",
+    "title": "The Blog Thing! We’re Doing It!",
     "section": "",
-    "text": "No matching items"
+    "text": "Hi yall!\nFor a while now, I’ve wished I had a place to share some short posts on what I’m up to related to R, data science, and statistics. I decided I’d take a Sunday to get this subdomain up and running! This setup uses blogdown and is based on a fork of Julia Silge’s website!\nThere’s more information about myself and what I work on on my main website."
   },
   {
     "objectID": "posts/2025-10-07-first-post.html",
