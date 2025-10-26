@@ -7,7 +7,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: Blog
+      - text: "Blog"
         href: blog/
       - text: "About"
         href: about.qmd
