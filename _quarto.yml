@@ -3,7 +3,6 @@ project:
 
 website:
   title: "David K. Amakye"
-  favicon: assets/profile.jpeg
   navbar:
     left:
       - text: "Home"
