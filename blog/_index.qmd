@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing:
+  contents: .
+  type: default
+  image: true
+  sort: "date desc"
+  categories: true
+  date-format: "long"
+  fields: [title, subtitle, date, image, categories, reading-time]
+page-layout: article
+---
