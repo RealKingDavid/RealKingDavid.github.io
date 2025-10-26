@@ -4,18 +4,139 @@ subtitle: "In God I trust, everyone else bring data."
 format: html
 ---
 
-<!-- Home / Hero Section -->
-<div class="hero" id="home">
-  <img src="assets/profile.jpeg" alt="David Amakye">
-  <h1>David K. Amakye</h1>
-  <p>Data Scientist | Data Storyteller | Statistician</p>
-  <a href="portfolio" class="btn">View Portfolio</a>
-  <a href="blog" class="btn">Read Blog</a>
-</div>
+<!-- Inline styles to make the landing look professional immediately.
+     If you'd rather keep styles in a separate file, I can move these to assets/styles.css -->
+<style>
+:root {
+  --accent: #0b5fff;
+  --muted: #6b7280;
+  --bg: #ffffff;
+  --card: #f8fafc;
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+}
+body { background: var(--bg); color: #0f172a; margin: 0; padding: 0; }
+.header { display:flex; align-items:center; justify-content:space-between; padding:1rem 2rem; border-bottom:1px solid #eef2f7; position:sticky; top:0; background:var(--bg); z-index:20; }
+.nav a { margin-left:1rem; color:var(--muted); text-decoration:none; font-weight:600; }
+.hero { display:flex; align-items:center; gap:2rem; padding:3rem 2rem; max-width:980px; margin:2rem auto; }
+.hero img { width:160px; height:160px; object-fit:cover; border-radius:999px; border:4px solid #fff; box-shadow:0 6px 24px rgba(8,15,52,0.08); }
+.hero h1 { margin:0; font-size:2.2rem; }
+.hero p.lead { color:var(--muted); margin:0.4rem 0 1rem; }
+.cta { display:inline-block; margin-right:0.5rem; padding:0.6rem 1rem; background:var(--accent); color:#fff; border-radius:8px; text-decoration:none; font-weight:700; }
+.cta.secondary { background:transparent; border:1px solid #e6eefc; color:var(--accent); }
+.summary { max-width:900px; margin:1rem auto 2rem; color:var(--muted); padding:0 2rem; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:1rem; max-width:980px; margin:1rem auto; padding:0 2rem; }
+.card { background:var(--card); padding:1rem; border-radius:10px; box-shadow:0 4px 18px rgba(8,15,52,0.04); }
+.skills { display:flex; flex-direction:column; gap:0.5rem; }
+.skill-bar { background:#e6eefc; height:10px; border-radius:999px; overflow:hidden; }
+.skill-level { height:100%; background:var(--accent); }
+.footer { color:var(--muted); text-align:center; padding:2rem 1rem; font-size:0.95rem; border-top:1px solid #eef2f7; margin-top:3rem; }
+.footer .social a { margin:0 .5rem; color:var(--muted); text-decoration:none; }
+.meta { font-size:0.9rem; color:var(--muted); }
+@media (max-width:720px) { .hero{flex-direction:column;text-align:center;} .hero img{width:120px;height:120px;} .header{padding:0.5rem 1rem;} }
+</style>
 
-<!-- Explore Section -->
-Explore:  
-- [About Me](about.qmd)  
-- [Blog Posts](blog/blog.qmd)  
-- [Contact](contact.qmd)
+<header class="header">
+  <div class="brand">
+    <strong>David K. Amakye</strong>
+    <div class="meta">Data Scientist • Statistician • Storyteller</div>
+  </div>
+  <nav class="nav" aria-label="Primary">
+    <a href="/">Home</a>
+    <a href="about.qmd">About</a>
+    <a href="portfolio/">Portfolio</a>
+    <a href="blog/">Blog</a>
+    <a href="contact.qmd">Contact</a>
+  </nav>
+</header>
 
+<section class="hero" id="home" role="banner">
+  <img src="assets/profile.jpeg" alt="Photo of David K. Amakye">
+  <div>
+    <h1>David K. Amakye</h1>
+    <p class="lead">I build data-driven solutions, craft clear analyses, and turn complex numbers into actionable stories.</p>
+    <p class="meta">Data Scientist • R, Python, SQL • Statistical modeling • Data visualization</p>
+    <p style="margin-top:1rem;">
+      <a class="cta" href="portfolio/">View Portfolio</a>
+      <a class="cta secondary" href="blog/">Read Blog</a>
+      <a class="cta" href="assets/resume.pdf" target="_blank" rel="noopener">Download Resume</a>
+    </p>
+  </div>
+</section>
+
+<section class="summary" aria-labelledby="about-heading">
+  <h2 id="about-heading">A bit about me</h2>
+  <p>I combine statistical rigor with domain insight to deliver analyses that inform decisions. I enjoy building reproducible analytics workflows, telling stories with visualizations, and mentoring others in applied data science.</p>
+</section>
+
+<section class="grid" aria-labelledby="skills-heading">
+  <div class="card">
+    <h3 id="skills-heading">Core Skills</h3>
+    <div class="skills" aria-hidden="false">
+      <div><strong>Statistical Modeling</strong><div class="skill-bar" aria-hidden="true"><div class="skill-level" style="width:92%"></div></div></div>
+      <div><strong>Data Engineering & SQL</strong><div class="skill-bar"><div class="skill-level" style="width:88%"></div></div></div>
+      <div><strong>Data Visualization</strong><div class="skill-bar"><div class="skill-level" style="width:90%"></div></div></div>
+      <div><strong>Machine Learning</strong><div class="skill-bar"><div class="skill-level" style="width:80%"></div></div></div>
+      <div style="margin-top:0.75rem;"><a href="about.qmd" class="cta secondary">Read my story</a></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Featured Projects</h3>
+    <div>
+      <div style="margin-bottom:0.75rem;">
+        <strong>1. Forecasting Revenue</strong>
+        <div class="meta">Time-series model for revenue forecasting — R, Prophet</div>
+        <a href="portfolio/forecasting.qmd">View project →</a>
+      </div>
+      <div style="margin-bottom:0.75rem;">
+        <strong>2. Customer Segmentation</strong>
+        <div class="meta">Clustering & profiling for targeted marketing — Python, scikit-learn</div>
+        <a href="portfolio/segmentation.qmd">View project →</a>
+      </div>
+      <div>
+        <strong>3. Interactive Dashboards</strong>
+        <div class="meta">Executive dashboards for KPI tracking — R Shiny / Plotly</div>
+        <a href="portfolio/dashboards.qmd">View project →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Recent Blog Posts</h3>
+    <ul style="padding-left:1rem; margin:0.5rem 0;">
+      <li><a href="blog/">How I build reproducible analysis</a></li>
+      <li><a href="blog/">An intro to causal inference (practical guide)</a></li>
+      <li><a href="blog/">Tips to make visualizations that tell a story</a></li>
+    </ul>
+    <p style="margin-top:0.6rem;"><a class="cta" href="blog/">See all posts</a></p>
+  </div>
+</section>
+
+<section style="max-width:980px; margin:2rem auto; padding:0 2rem;">
+  <div class="card">
+    <h3>Want to work together?</h3>
+    <p class="meta">I'm available for consulting, mentorship, and data projects. If you have an idea or a problem to solve, let's talk.</p>
+    <p style="margin-top:0.6rem;"><a class="cta" href="contact.qmd">Contact me</a></p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="social" aria-label="Social links">
+    <a href="https://github.com/RealKingDavid" target="_blank" rel="noopener">GitHub</a> ·
+    <a href="https://linkedin.com/in/RealKingDavid" target="_blank" rel="noopener">LinkedIn</a> ·
+    <a href="mailto:youremail@example.com">Email</a>
+  </div>
+  <div style="margin-top:0.5rem;" class="meta">© David K. Amakye • Built with Quarto</div>
+</footer>
+
+<!-- Structured data (basic) for better search results -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Person",
+  "name":"David K. Amakye",
+  "jobTitle":"Data Scientist",
+  "url":"https://realkingdavid.github.io",
+  "sameAs":["https://github.com/RealKingDavid","https://linkedin.com/in/RealKingDavid"]
+}
+</script>
