@@ -1,0 +1,12 @@
+---
+title: "The Blog Thing! We're Doing It!"
+date: 2025-10-25
+slug: intro
+tags: [personal, announcement]
+subtitle: "Finally kicking off the blog section!"
+image: assets/images/conny.jpg
+summary: "A short intro about starting the blog and what to expect next."
+---
+
+For some time now, I wish I had a place to share brief posts about my current activities related to R, data science, and statistics. I decided to take a Saturday or Sunday to get this up and running! 
+
