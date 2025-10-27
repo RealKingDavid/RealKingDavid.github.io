@@ -11,7 +11,7 @@ website:
         href: blog/
       - text: "About"
         href: about.qmd
-      - text: "Portfolio"
+      - text: "Contact"
         href: contact.qmd
     right:
       - icon: github
