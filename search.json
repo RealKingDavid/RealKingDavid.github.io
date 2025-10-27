@@ -7,11 +7,11 @@
     "text": "For some time now, I wish I had a place to share brief posts about my current activities related to R, data science, and statistics. I decided to take a Saturday or Sunday to get this up and running!"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Email: amakyekojodavid@gmail.com\nLinkedIn: linkedin.com/in/david-amakye\nGitHub: github.com/RealKingDavid"
+    "text": "I believe that numbers tell stories — sometimes quietly, sometimes in ways that surprise us.\nI’m fascinated by how data can reveal patterns that help us understand people, systems, and possibilities.\nMost days, I’m working on problems that live at the edge of statistics, machine learning, and communication — figuring out how to make insights feel human again.\n\nNow\nI’m currently a PhD student in Statistics, exploring how modern methods in optimization and experimental design can make real-world decisions smarter and more efficient.\nAlong the way, I’m learning to translate complex statistical ideas into stories that inspire — whether that’s through writing, teaching, or building tools that help others see data differently.\n\n\nPreviously\nBefore diving deep into research, I spent time studying the foundations of data science, learning how numbers shape narratives, and building small projects that blend analytics with creativity.\nThat mix of art and analysis is something I still carry into everything I do.\n\n\nElsewhere\nYou can find me online here:\n\n🧠 GitHub\n💼 LinkedIn\n✍️ WordPress\n📧 Email\n\n\nBuilt with love and Quarto. Updated {{&lt; today &gt;}}."
   },
   {
     "objectID": "index.html",
@@ -21,10 +21,17 @@
     "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\n\nExplore:\n- About Me\n- Blog Posts\n- Contact"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "I believe that numbers tell stories — sometimes quietly, sometimes in ways that surprise us.\nI’m fascinated by how data can reveal patterns that help us understand people, systems, and possibilities.\nMost days, I’m working on problems that live at the edge of statistics, machine learning, and communication — figuring out how to make insights feel human again.\n\nNow\nI’m currently a PhD student in Statistics, exploring how modern methods in optimization and experimental design can make real-world decisions smarter and more efficient.\nAlong the way, I’m learning to translate complex statistical ideas into stories that inspire — whether that’s through writing, teaching, or building tools that help others see data differently.\n\n\nPreviously\nBefore diving deep into research, I spent time studying the foundations of data science, learning how numbers shape narratives, and building small projects that blend analytics with creativity.\nThat mix of art and analysis is something I still carry into everything I do.\n\n\nElsewhere\nYou can find me online here:\n\n🧠 GitHub\n💼 LinkedIn\n✍️ WordPress\n📧 Email\n\n\nBuilt with love and Quarto. Updated {{&lt; today &gt;}}."
+    "text": "Email: amakyekojodavid@gmail.com\nLinkedIn: linkedin.com/in/david-amakye\nGitHub: github.com/RealKingDavid"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog! Here I share thoughts on data, statistics and data science..\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Blog Thing! We’re Doing It!\n\n\nFinally kicking off the blog section!\n\n\n\n\n\nOctober 25, 2025\n\n1 min\n\n\n\n\nNo matching items"
   }
 ]
