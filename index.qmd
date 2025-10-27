@@ -9,8 +9,8 @@ format: html
   <img src="assets/profile.jpeg" alt="David Amakye">
   <h1>David K. Amakye</h1>
   <p>Data Scientist | Data Storyteller | Statistician</p>
-  <a href="portfolio" class="btn">View Portfolio</a>
-  <a href="Blog" class="btn">Read Blog</a>
+  <a href="contact.qmd" class="btn">View Portfolio</a>
+  <a href="blog/" class="btn">Read Blog</a>
 </div>
 
 <!-- Explore Section -->
