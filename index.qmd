@@ -6,43 +6,16 @@ format: html
 
 <!-- Home / Hero Section -->
 <div class="hero" id="home">
-  <div class="hero-content">
-    <div class="profile-container">
-      <img src="assets/profile.jpeg" alt="David Amakye" class="profile-img">
-      <div class="profile-border"></div>
-    </div>
-    <h1 class="hero-title">David K. Amakye</h1>
-    <p class="hero-subtitle">Data Scientist | Data Storyteller | Statistician</p>
-    <p class="hero-tagline">Transforming data into insights and insights into stories</p>
-    <div class="hero-buttons">
-      <a href="contact.qmd" class="btn btn-primary">View Portfolio</a>
-      <a href="blog/" class="btn btn-secondary">Read Blog</a>
-    </div>
-  </div>
+  <img src="assets/profile.jpeg" alt="David Amakye">
+  <h1>David K. Amakye</h1>
+  <p>Data Scientist | Data Storyteller | Statistician</p>
+  <a href="contact.qmd" class="btn">View Portfolio</a>
+  <a href="blog/" class="btn">Read Blog</a>
 </div>
 
 <!-- Explore Section -->
-<div class="explore-section">
-  <h2 class="section-title">Explore</h2>
-  <div class="explore-grid">
-    <div class="explore-card">
-      <div class="explore-icon">👤</div>
-      <h3>About Me</h3>
-      <p>Learn more about my background and journey in data science</p>
-      <a href="about.qmd" class="explore-link">Learn More →</a>
-    </div>
-    <div class="explore-card">
-      <div class="explore-icon">📝</div>
-      <h3>Blog Posts</h3>
-      <p>Read my latest thoughts on data science and statistics</p>
-      <a href="blog/" class="explore-link">Read More →</a>
-    </div>
-    <div class="explore-card">
-      <div class="explore-icon">📧</div>
-      <h3>Contact</h3>
-      <p>Get in touch and let's collaborate on your next project</p>
-      <a href="contact.qmd" class="explore-link">Contact Me →</a>
-    </div>
-  </div>
-</div>
+Explore:  
+- [About Me](about.qmd)  
+- [Blog Posts](blog/)  
+- [Contact](contact.qmd)
 
