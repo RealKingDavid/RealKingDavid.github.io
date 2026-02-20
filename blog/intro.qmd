@@ -1,9 +1,9 @@
 ---
-title: "The Blog Thing! We're Doing It!"
+title: "Here, data science lives on!"
 date: 2025-10-25
 slug: intro
 tags: [personal, announcement]
-subtitle: "Finally kicking off the blog section!"
+subtitle: "Let's do this!"
 image: ../assets/images/conny.jpg
 summary: "A short intro about starting the blog and what to expect next."
 ---
