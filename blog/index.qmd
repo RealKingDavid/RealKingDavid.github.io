@@ -10,5 +10,5 @@ listing:
   fields: [title, subtitle, date, image, categories, reading-time]
 page-layout: article
 ---
-Welcome to my blog! Here I share thoughts on data, statistics and data science..
+Welcome to my blog! Here I share thoughts on data science, and statistics.
 
