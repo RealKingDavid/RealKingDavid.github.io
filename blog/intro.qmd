@@ -8,5 +8,4 @@ image: ../assets/images/conny.jpg
 summary: "A short intro about starting the blog and what to expect next."
 ---
 
-For some time now, I wish I had a place to share brief posts about my current activities related to R, data science, and statistics. I decided to take a Saturday or Sunday to get this up and running! 
-
+Here is a place where I share brief posts about my current activities in data science and statistics.
