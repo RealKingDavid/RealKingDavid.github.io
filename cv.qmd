@@ -2,10 +2,6 @@
 title: "Curriculum Vitae"
 ---
 
-[Download PDF](files/DavidKojoAmakye_CV.pdf)
-
----
-
 ## David Kojo Amakye  
 📧 amakyekojodavid@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/david-amakye) | [GitHub](https://github.com/RealKingDavid)
