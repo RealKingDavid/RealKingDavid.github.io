@@ -14,6 +14,13 @@
     "text": "I believe that numbers tell stories — sometimes quietly, sometimes in ways that surprise us.\nI’m fascinated by how data can reveal patterns that help us understand people, systems, and possibilities.\nMost days, I’m working on problems that live at the edge of statistics, machine learning, and communication — figuring out how to make insights feel human again.\n\nNow\nI’m currently a PhD student in Statistics, exploring how modern methods in optimization and experimental design can make real-world decisions smarter and more efficient.\nAlong the way, I’m learning to translate complex statistical ideas into stories that inspire — whether that’s through writing, teaching, or building tools that help others see data differently.\n\n\nPreviously\nBefore diving deep into research, I spent time studying the foundations of data science, learning how numbers shape narratives, and building small projects that blend analytics with creativity.\nThat mix of art and analysis is something I still carry into everything I do.\n\n\nElsewhere\nYou can find me online here:\n\n🧠 GitHub\n💼 LinkedIn\n✍️ WordPress\n📧 Email\n\n\nBuilt with love and Quarto. Updated {{&lt; today &gt;}}."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: amakyekojodavid@gmail.com\nLinkedIn: linkedin.com/in/david-amakye\nGitHub: github.com/RealKingDavid"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "David K. Amakye",
@@ -21,11 +28,88 @@
     "text": "David K. Amakye\n\n\nData Scientist | Data Storyteller | Statistician\n\nView Portfolio Read Blog\n\n\nExplore:\n- About Me\n- Blog Posts\n- Contact"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Email: amakyekojodavid@gmail.com\nLinkedIn: linkedin.com/in/david-amakye\nGitHub: github.com/RealKingDavid"
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "cv.html#david-kojo-amakye",
+    "href": "cv.html#david-kojo-amakye",
+    "title": "Curriculum Vitae",
+    "section": "David Kojo Amakye",
+    "text": "David Kojo Amakye\n📧 amakyekojodavid@gmail.com\n🔗 LinkedIn | GitHub"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nPhD student in Statistics with strong training in applied statistical modeling, machine learning, and experimental design, and hands-on experience translating data into decision-ready insights for business, research, and healthcare contexts. Research interests include optimization under censoring, reliability and survival analysis, and interpretable machine learning. Experienced with SAS, Python, R, SQL, and modern analytics and visualization tools."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nUniversity of Cincinnati, Cincinnati, OH\nPhD in Statistics (Aug 2025 – Present)\nFocus: Applied statistics and data science for industry and healthcare analytics; experimental design, optimization, and interpretable modeling under real-world constraints.\nUniversity of Texas at El Paso, El Paso, TX\nMSc in Statistics & Data Science (Aug 2023 – May 2025)\nThesis track emphasizing statistical theory, machine learning, and applied data science; collaborative projects in predictive modeling and interactive analytics (R Shiny).\nKwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana\nBSc in Statistics (Aug 2015 – Jun 2019)\nStrong foundation in probability, mathematical statistics, linear algebra, and programming. Completed an A-graded applied statistics thesis developing a logistic regression model."
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nInterpretable Machine Learning\n\nHealthcare Analytics & Clinical Decision Support\n\nExperimental Design & Optimization\n\nSurvival & Reliability Analysis (Weibull models, censoring)\n\nReproducible Statistical Computing"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nDepartment of Mathematical Sciences, University of Cincinnati, Cincinnati, OH\nGraduate Assistant (Aug 2025 – Present)\n- Mentor and support over 90 students across diverse academic backgrounds.\n- Present complex statistical concepts clearly in large-class settings.\n- Collaborate with faculty on instructional delivery and student engagement.\nDepartment of Mathematical Sciences, University of Texas at El Paso, El Paso, TX\nGraduate Assistant (Aug 2023 – 2025)\n- Graded assignments and projects, providing detailed, constructive feedback.\n- Delivered personalized tutoring to strengthen conceptual understanding.\n- Collaborated with faculty to design applied statistics and data science tutorials.\nTema Fuel Company Ltd, Tema, Ghana\nData Manager (Stock Analytics) (Jan 2020 – Jul 2023)\n- Performed data cleaning, statistical analysis, and visualization on operational and financial datasets.\n- Applied hypothesis testing and analytics to identify inefficiencies, achieving a 15% reduction in outstanding receivables and a 10% increase in payment efficiency.\n- Designed workforce and performance analytics reports to support management decision-making.\nManifold Expressions, Remote\nProduction Team Lead & Account Executive (Jul 2022 – Jul 2023)\n- Led data-driven workforce planning and resource optimization initiatives.\n- Developed analytical presentations translating trends into strategic recommendations.\n- Supported analytics-informed strategies that increased organizational reach by 30% and engagement by 20%.\nHash Analytics, Remote\nData Analytics Intern (Oct 2021 – Dec 2021)\n- Completed industry case projects in business analytics (PwC and JPMorgan Chase contexts).\n- Used Python and Tableau for analysis, visualization, and interpretation of business data.\n- Collaborated in a remote, cross-functional analytics environment."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "Curriculum Vitae",
+    "section": "Selected Projects",
+    "text": "Selected Projects\nOptimal Experimental Plan for Multi-Level Stress Testing Under Progressively Hybrid Censoring (May 2025)\n- Developed optimization-based experimental designs using Weibull lifetime models.\n- Applied Variable Neighborhood Search (VNS) to improve parameter estimation under A- and D-optimality.\n- Applications include reliability engineering, healthcare survival analysis, and industrial experimentation.\nPrediction of Diabetes in Middle-Aged Adults: A Machine Learning Approach (Oct 2024)\n- Evaluated machine learning models using symptomatic and demographic predictors.\n- Identified interpretable and efficient models for clinical decision support.\nFlood Mortality in Africa (2000–2023) — Arkansas Summer Research Institute\n- Analyzed EM-DAT disaster data using Python and R to identify mortality patterns and risk factors.\n- Applied statistical modeling and visualization to inform preparedness and mitigation strategies.\nDallas Airbnb Market Analysis\n- Built multiple regression models in R to identify pricing drivers and predict rental prices.\n- Translated statistical outputs into actionable market insights.\nWeather & Climate Pattern Analysis (Michigan)\n- Applied K-means clustering and time-series analysis to data from 58 weather stations.\n- Generated insights supporting environmental planning and forecasting.\nR Shiny: Regression Methods for Real Estate\n- Developed an interactive analytics application to compare regression techniques and interpret results.\n🔗 https://kingdavid.shinyapps.io/project_final/"
+  },
+  {
+    "objectID": "cv.html#skills-tools",
+    "href": "cv.html#skills-tools",
+    "title": "Curriculum Vitae",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\nStatistical Methods: Regression modeling, experimental design & A/B testing, survival and reliability analysis, inference, uncertainty quantification, optimization, simulation-based methods.\nMachine Learning: Predictive modeling, feature engineering, validation, interpretability, supervised learning for tabular data.\nProgramming & Data: SAS, Python, R, SQL, JavaScript, Git/GitHub, reproducible workflows.\nVisualization & Reporting: Power BI, Tableau, SAS Visual Analytics, Excel; stakeholder-ready dashboards.\nProfessional Skills: Translating analytics into decisions, cross-functional collaboration, technical communication, mentoring."
+  },
+  {
+    "objectID": "cv.html#certifications-professional-development",
+    "href": "cv.html#certifications-professional-development",
+    "title": "Curriculum Vitae",
+    "section": "Certifications & Professional Development",
+    "text": "Certifications & Professional Development\n\nSAS Certified Data Scientist (In progress)\n\nJSE – Certified Entry-Level JavaScript Programmer (In progress)\n\nCertified Business Intelligence & Data Analyst (CFI)\n\nGoogle Data Analytics Professional Certificate\n\nCertified Data Governance Analyst\n\nGoogle: Introduction to Generative AI\n\nCisco/Minnesota State IT Center of Excellence: Introduction to Cybersecurity\n\nUniversity of Helsinki: Elements of AI"
+  },
+  {
+    "objectID": "cv.html#awards-honors",
+    "href": "cv.html#awards-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\nDiversity Mentoring Program (DMP) Funding Award, American Statistical Association (ASA)\nCompetitive award recognizing analytical excellence and professional potential; supported attendance at Joint Statistical Meetings 2025."
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "Curriculum Vitae",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nSociety for Industrial and Applied Mathematics (SIAM)\n\nRoyal Statistical Society (RSS)\n\nAcademic Data Science Alliance (ADSA)\n\nSTEM for Development (U.S.-based non-profit)"
+  },
+  {
+    "objectID": "cv.html#leadership-service",
+    "href": "cv.html#leadership-service",
+    "title": "Curriculum Vitae",
+    "section": "Leadership & Service",
+    "text": "Leadership & Service\n\nHealth and Safety Champion, Tema Fuel Company\n\nDeputy Finance Head, Welfare Committee (NUPS-G)\n\nExecutive Committee Member, AMSS Trade and Technology (TRATECH)"
   },
   {
     "objectID": "blog/index.html",
