@@ -1,0 +1,157 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download PDF](files/DavidKojoAmakye_CV.pdf)
+
+---
+
+## David Kojo Amakye  
+📧 amakyekojodavid@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/david-amakye) | [GitHub](https://github.com/RealKingDavid)
+
+---
+
+## Professional Summary
+
+PhD student in Statistics with strong training in applied statistical modeling, machine learning, and experimental design, and hands-on experience translating data into decision-ready insights for business, research, and healthcare contexts. Research interests include optimization under censoring, reliability and survival analysis, and interpretable machine learning. Experienced with SAS, Python, R, SQL, and modern analytics and visualization tools.
+
+---
+
+## Education
+
+**University of Cincinnati**, Cincinnati, OH  
+*PhD in Statistics* (Aug 2025 – Present)  
+Focus: Applied statistics and data science for industry and healthcare analytics; experimental design, optimization, and interpretable modeling under real-world constraints.
+
+**University of Texas at El Paso**, El Paso, TX  
+*MSc in Statistics & Data Science* (Aug 2023 – May 2025)  
+Thesis track emphasizing statistical theory, machine learning, and applied data science; collaborative projects in predictive modeling and interactive analytics (R Shiny).
+
+**Kwame Nkrumah University of Science and Technology (KNUST)**, Kumasi, Ghana  
+*BSc in Statistics* (Aug 2015 – Jun 2019)  
+Strong foundation in probability, mathematical statistics, linear algebra, and programming. Completed an A-graded applied statistics thesis developing a logistic regression model.
+
+---
+
+## Research Interests
+
+- Interpretable Machine Learning  
+- Healthcare Analytics & Clinical Decision Support  
+- Experimental Design & Optimization  
+- Survival & Reliability Analysis (Weibull models, censoring)  
+- Reproducible Statistical Computing  
+
+---
+
+## Professional Experience
+
+**Department of Mathematical Sciences, University of Cincinnati**, Cincinnati, OH  
+*Graduate Assistant* (Aug 2025 – Present)  
+- Mentor and support over 90 students across diverse academic backgrounds.  
+- Present complex statistical concepts clearly in large-class settings.  
+- Collaborate with faculty on instructional delivery and student engagement.
+
+**Department of Mathematical Sciences, University of Texas at El Paso**, El Paso, TX  
+*Graduate Assistant* (Aug 2023 – 2025)  
+- Graded assignments and projects, providing detailed, constructive feedback.  
+- Delivered personalized tutoring to strengthen conceptual understanding.  
+- Collaborated with faculty to design applied statistics and data science tutorials.
+
+**Tema Fuel Company Ltd**, Tema, Ghana  
+*Data Manager (Stock Analytics)* (Jan 2020 – Jul 2023)  
+- Performed data cleaning, statistical analysis, and visualization on operational and financial datasets.  
+- Applied hypothesis testing and analytics to identify inefficiencies, achieving a 15% reduction in outstanding receivables and a 10% increase in payment efficiency.  
+- Designed workforce and performance analytics reports to support management decision-making.
+
+**Manifold Expressions**, Remote  
+*Production Team Lead & Account Executive* (Jul 2022 – Jul 2023)  
+- Led data-driven workforce planning and resource optimization initiatives.  
+- Developed analytical presentations translating trends into strategic recommendations.  
+- Supported analytics-informed strategies that increased organizational reach by 30% and engagement by 20%.
+
+**Hash Analytics**, Remote  
+*Data Analytics Intern* (Oct 2021 – Dec 2021)  
+- Completed industry case projects in business analytics (PwC and JPMorgan Chase contexts).  
+- Used Python and Tableau for analysis, visualization, and interpretation of business data.  
+- Collaborated in a remote, cross-functional analytics environment.
+
+---
+
+## Selected Projects
+
+**Optimal Experimental Plan for Multi-Level Stress Testing Under Progressively Hybrid Censoring** (May 2025)  
+- Developed optimization-based experimental designs using Weibull lifetime models.  
+- Applied Variable Neighborhood Search (VNS) to improve parameter estimation under A- and D-optimality.  
+- Applications include reliability engineering, healthcare survival analysis, and industrial experimentation.
+
+**Prediction of Diabetes in Middle-Aged Adults: A Machine Learning Approach** (Oct 2024)  
+- Evaluated machine learning models using symptomatic and demographic predictors.  
+- Identified interpretable and efficient models for clinical decision support.
+
+**Flood Mortality in Africa (2000–2023)** — Arkansas Summer Research Institute  
+- Analyzed EM-DAT disaster data using Python and R to identify mortality patterns and risk factors.  
+- Applied statistical modeling and visualization to inform preparedness and mitigation strategies.
+
+**Dallas Airbnb Market Analysis**  
+- Built multiple regression models in R to identify pricing drivers and predict rental prices.  
+- Translated statistical outputs into actionable market insights.
+
+**Weather & Climate Pattern Analysis (Michigan)**  
+- Applied K-means clustering and time-series analysis to data from 58 weather stations.  
+- Generated insights supporting environmental planning and forecasting.
+
+**R Shiny: Regression Methods for Real Estate**  
+- Developed an interactive analytics application to compare regression techniques and interpret results.  
+🔗 https://kingdavid.shinyapps.io/project_final/
+
+---
+
+## Skills & Tools
+
+**Statistical Methods:** Regression modeling, experimental design & A/B testing, survival and reliability analysis, inference, uncertainty quantification, optimization, simulation-based methods.
+
+**Machine Learning:** Predictive modeling, feature engineering, validation, interpretability, supervised learning for tabular data.
+
+**Programming & Data:** SAS, Python, R, SQL, JavaScript, Git/GitHub, reproducible workflows.
+
+**Visualization & Reporting:** Power BI, Tableau, SAS Visual Analytics, Excel; stakeholder-ready dashboards.
+
+**Professional Skills:** Translating analytics into decisions, cross-functional collaboration, technical communication, mentoring.
+
+---
+
+## Certifications & Professional Development
+
+- SAS Certified Data Scientist (In progress)  
+- JSE – Certified Entry-Level JavaScript Programmer (In progress)  
+- Certified Business Intelligence & Data Analyst (CFI)  
+- Google Data Analytics Professional Certificate  
+- Certified Data Governance Analyst  
+- Google: Introduction to Generative AI  
+- Cisco/Minnesota State IT Center of Excellence: Introduction to Cybersecurity  
+- University of Helsinki: Elements of AI  
+
+---
+
+## Awards & Honors
+
+- **Diversity Mentoring Program (DMP) Funding Award**, American Statistical Association (ASA)  
+  Competitive award recognizing analytical excellence and professional potential; supported attendance at Joint Statistical Meetings 2025.
+
+---
+
+## Professional Memberships
+
+- Society for Industrial and Applied Mathematics (SIAM)  
+- Royal Statistical Society (RSS)  
+- Academic Data Science Alliance (ADSA)  
+- STEM for Development (U.S.-based non-profit)
+
+---
+
+## Leadership & Service
+
+- Health and Safety Champion, Tema Fuel Company  
+- Deputy Finance Head, Welfare Committee (NUPS-G)  
+- Executive Committee Member, AMSS Trade and Technology (TRATECH)
