@@ -10,11 +10,7 @@ summary: "Open source isn't just a preference anymore; it's the audit layer for 
 
 Every few years, something comes along that makes the question of open vs. closed feel urgent in a new way. Right now, that thing is AI and specifically, the large models that are reshaping how software gets written, how decisions get made, and how information gets filtered.
 
-## The Stakes of Openness
-
 The stakes of openness have never been higher.
-
-## The Closed Model Problem
 
 Here's the tension: the most capable AI systems today are mostly closed. The weights aren't public. The training data isn't disclosed. The reasoning process is opaque even to the people running them. You interact with these systems through an API, and you take on faith that they're doing what you think they're doing.
 
