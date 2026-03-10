@@ -39,21 +39,7 @@
     "href": "blog/opensource-in-ai.html",
     "title": "Open Source in the Age of AI: More Important Than Ever",
     "section": "",
-    "text": "Every few years, something comes along that makes the question of open vs. closed feel urgent in a new way. Right now, that thing is AI and specifically, the large models that are reshaping how software gets written, how decisions get made, and how information gets filtered."
-  },
-  {
-    "objectID": "blog/opensource-in-ai.html#the-stakes-of-openness",
-    "href": "blog/opensource-in-ai.html#the-stakes-of-openness",
-    "title": "Open Source in the Age of AI: More Important Than Ever",
-    "section": "The Stakes of Openness",
-    "text": "The Stakes of Openness\nThe stakes of openness have never been higher."
-  },
-  {
-    "objectID": "blog/opensource-in-ai.html#the-closed-model-problem",
-    "href": "blog/opensource-in-ai.html#the-closed-model-problem",
-    "title": "Open Source in the Age of AI: More Important Than Ever",
-    "section": "The Closed Model Problem",
-    "text": "The Closed Model Problem\nHere’s the tension: the most capable AI systems today are mostly closed. The weights aren’t public. The training data isn’t disclosed. The reasoning process is opaque even to the people running them. You interact with these systems through an API, and you take on faith that they’re doing what you think they’re doing.\nThat’s a significant amount of trust to extend to any system, let alone one that’s increasingly embedded in consequential decisions."
+    "text": "Every few years, something comes along that makes the question of open vs. closed feel urgent in a new way. Right now, that thing is AI and specifically, the large models that are reshaping how software gets written, how decisions get made, and how information gets filtered.\nThe stakes of openness have never been higher.\nHere’s the tension: the most capable AI systems today are mostly closed. The weights aren’t public. The training data isn’t disclosed. The reasoning process is opaque even to the people running them. You interact with these systems through an API, and you take on faith that they’re doing what you think they’re doing.\nThat’s a significant amount of trust to extend to any system, let alone one that’s increasingly embedded in consequential decisions."
   },
   {
     "objectID": "blog/opensource-in-ai.html#why-openness-matters",
